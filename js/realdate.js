@@ -1,5 +1,5 @@
-// Animate On Scroll Init
-AOS.init();
+// // Animate On Scroll Init
+// AOS.init();
 
 
 
